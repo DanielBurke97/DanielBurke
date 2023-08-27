@@ -1,1 +1,2 @@
-Set up
+$ git branch gh-pages
+$ git checkout gh-pages
